@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-07-03">
+    <creator>NetworkX 3.0</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="UCL The Bartlett School of Sustainable Construction" label="UCL The Bartlett School of Sustainable Construction" />
+      <node id="" label="" />
+      <node id="Centre for Advanced Spatial Analysis" label="Centre for Advanced Spatial Analysis" />
+      <node id="Bartlett School of Architecture" label="Bartlett School of Architecture" />
+      <node id="Research Partnership" label="Research Partnership" />
+      <node id="UCL Energy Institute" label="UCL Energy Institute" />
+      <node id="Working with the public and third sector" label="Working with the public and third sector" />
+      <node id="The Bartlett School of Planning" label="The Bartlett School of Planning" />
+      <node id="Bartlett School of Planning" label="Bartlett School of Planning" />
+      <node id="UCL Institute for Environmental Design and Engineering" label="UCL Institute for Environmental Design and Engineering" />
+      <node id="Public research survey" label="Public research survey" />
+      <node id="Co-Design" label="Co-Design" />
+      <node id="Bartlett School of Construction and Project Management" label="Bartlett School of Construction and Project Management" />
+      <node id="Sponsered Research" label="Sponsered Research" />
+      <node id="1. Research Partnership&#10;2. Dataset" label="1. Research Partnership&#10;2. Dataset" />
+      <node id="UCL Urban Laboratory" label="UCL Urban Laboratory" />
+      <node id="UCL Institute for Global Prosperity" label="UCL Institute for Global Prosperity" />
+      <node id="Research Methodology and public participation" label="Research Methodology and public participation" />
+      <node id="Data Access" label="Data Access" />
+      <node id="Co-design workshop and WLCA studies" label="Co-design workshop and WLCA studies" />
+      <node id="Data / questionnaire / method" label="Data / questionnaire / method" />
+      <node id="Data and modelling" label="Data and modelling" />
+      <node id="Research Databases" label="Research Databases" />
+      <node id="via purposive sampling, to represent stakeholders involved in urban food governance at the community level such as local government officers, elected politicians, community representatives and third sector organizations." label="via purposive sampling, to represent stakeholders involved in urban food governance at the community level such as local government officers, elected politicians, community representatives and third sector organizations." />
+      <node id="engagement based" label="engagement based" />
+      <node id="Semi-structured interviews" label="Semi-structured interviews" />
+      <node id="Collaboration and industrial sponsor" label="Collaboration and industrial sponsor" />
+      <node id="Research Support" label="Research Support" />
+      <node id="Bartlett School of Environment Energy and Resources" label="Bartlett School of Environment Energy and Resources" />
+      <node id="Co-author" label="Co-author" />
+      <node id="UCL Institute for Sustainable Heritage" label="UCL Institute for Sustainable Heritage" />
+      <node id="UCL Institute for Sustainable Resources" label="UCL Institute for Sustainable Resources" />
+      <node id="Co-authorship with academic partners" label="Co-authorship with academic partners" />
+      <node id="Data access" label="Data access" />
+      <node id="The Bartlett School of Environment, Energy &amp; Resources" label="The Bartlett School of Environment, Energy &amp; Resources" />
+      <node id="Institute for Innovation and Public Purpose" label="Institute for Innovation and Public Purpose" />
+      <node id="Partnerships for Healthy Parks" label="Partnerships for Healthy Parks" />
+      <node id="policy placement at the Department for Digital, Culture, Media and Sport" label="policy placement at the Department for Digital, Culture, Media and Sport" />
+      <node id="A strategic knowledge exchange partnership" label="A strategic knowledge exchange partnership" />
+      <node id="Student Field Trip" label="Student Field Trip" />
+      <node id="Built Environment Faculty Office" label="Built Environment Faculty Office" />
+      <node id="Student field trip" label="Student field trip" />
+    </nodes>
+    <edges>
+      <edge source="UCL The Bartlett School of Sustainable Construction" target="" id="0" />
+      <edge source="UCL The Bartlett School of Sustainable Construction" target="Research Databases" id="1" />
+      <edge source="UCL The Bartlett School of Sustainable Construction" target="policy placement at the Department for Digital, Culture, Media and Sport" id="2" />
+      <edge source="UCL The Bartlett School of Sustainable Construction" target="Student field trip" id="3" />
+      <edge source="" target="Centre for Advanced Spatial Analysis" id="4" />
+      <edge source="" target="" id="5" />
+      <edge source="" target="Bartlett School of Architecture" id="6" />
+      <edge source="" target="The Bartlett School of Planning" id="7" />
+      <edge source="" target="Bartlett School of Planning" id="8" />
+      <edge source="" target="UCL Institute for Environmental Design and Engineering" id="9" />
+      <edge source="" target="Public research survey" id="10" />
+      <edge source="" target="Bartlett School of Construction and Project Management" id="11" />
+      <edge source="" target="UCL Urban Laboratory" id="12" />
+      <edge source="" target="Co-design workshop and WLCA studies" id="13" />
+      <edge source="" target="UCL Energy Institute" id="14" />
+      <edge source="" target="Research Partnership" id="15" />
+      <edge source="" target="Bartlett School of Environment Energy and Resources" id="16" />
+      <edge source="" target="UCL Institute for Sustainable Heritage" id="17" />
+      <edge source="" target="UCL Institute for Sustainable Resources" id="18" />
+      <edge source="" target="UCL Institute for Global Prosperity" id="19" />
+      <edge source="" target="The Bartlett School of Environment, Energy &amp; Resources" id="20" />
+      <edge source="" target="Institute for Innovation and Public Purpose" id="21" />
+      <edge source="" target="Built Environment Faculty Office" id="22" />
+      <edge source="Centre for Advanced Spatial Analysis" target="1. Research Partnership&#10;2. Dataset" id="23" />
+      <edge source="Centre for Advanced Spatial Analysis" target="Data Access" id="24" />
+      <edge source="Centre for Advanced Spatial Analysis" target="Research Support" id="25" />
+      <edge source="Centre for Advanced Spatial Analysis" target="Data access" id="26" />
+      <edge source="Bartlett School of Architecture" target="Research Partnership" id="27" />
+      <edge source="Bartlett School of Architecture" target="Student Field Trip" id="28" />
+      <edge source="Bartlett School of Architecture" target="Student field trip" id="29" />
+      <edge source="Research Partnership" target="UCL Institute for Environmental Design and Engineering" id="30" />
+      <edge source="Research Partnership" target="UCL Urban Laboratory" id="31" />
+      <edge source="Research Partnership" target="The Bartlett School of Planning" id="32" />
+      <edge source="UCL Energy Institute" target="Working with the public and third sector" id="33" />
+      <edge source="UCL Energy Institute" target="Co-authorship with academic partners" id="34" />
+      <edge source="The Bartlett School of Planning" target="Co-Design" id="35" />
+      <edge source="The Bartlett School of Planning" target="via purposive sampling, to represent stakeholders involved in urban food governance at the community level such as local government officers, elected politicians, community representatives and third sector organizations." id="36" />
+      <edge source="The Bartlett School of Planning" target="engagement based" id="37" />
+      <edge source="The Bartlett School of Planning" target="Semi-structured interviews" id="38" />
+      <edge source="UCL Institute for Environmental Design and Engineering" target="Data / questionnaire / method" id="39" />
+      <edge source="UCL Institute for Environmental Design and Engineering" target="Data and modelling" id="40" />
+      <edge source="UCL Institute for Environmental Design and Engineering" target="Collaboration and industrial sponsor" id="41" />
+      <edge source="UCL Institute for Environmental Design and Engineering" target="Co-author" id="42" />
+      <edge source="UCL Institute for Environmental Design and Engineering" target="Research Support" id="43" />
+      <edge source="UCL Institute for Environmental Design and Engineering" target="Co-authorship with academic partners" id="44" />
+      <edge source="Bartlett School of Construction and Project Management" target="Sponsered Research" id="45" />
+      <edge source="UCL Institute for Global Prosperity" target="Research Methodology and public participation" id="46" />
+      <edge source="The Bartlett School of Environment, Energy &amp; Resources" target="Partnerships for Healthy Parks" id="47" />
+      <edge source="The Bartlett School of Environment, Energy &amp; Resources" target="A strategic knowledge exchange partnership" id="48" />
+      <edge source="The Bartlett School of Environment, Energy &amp; Resources" target="Student Field Trip" id="49" />
+      <edge source="The Bartlett School of Environment, Energy &amp; Resources" target="Student field trip" id="50" />
+    </edges>
+  </graph>
+</gexf>
