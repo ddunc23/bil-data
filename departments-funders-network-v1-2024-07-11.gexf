@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-07-11">
+    <creator>NetworkX 3.0</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="node_type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Bartlett School of Environment, Energy and Resources" label="Bartlett School of Environment, Energy and Resources">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Bartlett Centre for Advanced Spatial Analysis" label="Bartlett Centre for Advanced Spatial Analysis">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="UCL Institute for Global Prosperity" label="UCL Institute for Global Prosperity">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Bartlett School of Planning" label="Bartlett School of Planning">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Natural Environment Research Council (NERC)" label="Natural Environment Research Council (NERC)">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Bartlett School of Architecture" label="Bartlett School of Architecture">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Engineering &amp; Physical Sciences Research Council (EPSRC)" label="Engineering &amp; Physical Sciences Research Council (EPSRC)">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="The Centre for Sustainable Road Freight" label="The Centre for Sustainable Road Freight">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Bartlett Development Planning Unit" label="Bartlett Development Planning Unit">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Treaty of Windsor Programme" label="Treaty of Windsor Programme">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="European Research Council (ERC)" label="European Research Council (ERC)">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Bartlett School of Sustainable Construction" label="Bartlett School of Sustainable Construction">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="UK Energy Research Centre" label="UK Energy Research Centre">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Economic and Social Research Council (ESRC)" label="Economic and Social Research Council (ESRC)">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="UCL Urban Laboratory" label="UCL Urban Laboratory">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="European Union" label="European Union">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="China Scholarship Council" label="China Scholarship Council">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Greater London Authority (GLA)" label="Greater London Authority (GLA)">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Transport for London (TfL)" label="Transport for London (TfL)">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="UCL Grand Challenges" label="UCL Grand Challenges">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="British Council" label="British Council">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="British Academy (BA)" label="British Academy (BA)">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Leverhulme Trust" label="Leverhulme Trust">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Tsinghua University Open Fund" label="Tsinghua University Open Fund">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Medical Research Council (MRC)" label="Medical Research Council (MRC)">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="EU Seventh Framework Programme" label="EU Seventh Framework Programme">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Chartered Institution of Building Services Engineers (CIBSE)" label="Chartered Institution of Building Services Engineers (CIBSE)">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Wellcome Trust" label="Wellcome Trust">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="UK Research and Innovation" label="UK Research and Innovation">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Croatian Science Foundation" label="Croatian Science Foundation">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Ordnance Survey" label="Ordnance Survey">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="UCL Institute for Innovation and Public Purpose" label="UCL Institute for Innovation and Public Purpose">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Hackney Council" label="Hackney Council">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="EU Horizon" label="EU Horizon">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="European Union’s Horizon 2020" label="European Union’s Horizon 2020">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Office Government Scientist" label="Office Government Scientist">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Polygon UK" label="Polygon UK">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="City of London Archaeological Trust" label="City of London Archaeological Trust">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Arts and Humanities Research Council (AHRC)" label="Arts and Humanities Research Council (AHRC)">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="National Institute for Health Research (NIHR)" label="National Institute for Health Research (NIHR)">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Camden Council" label="Camden Council">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="UCL Impact" label="UCL Impact">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Welsh Assembly Government" label="Welsh Assembly Government">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="UK Health and Safety Executive (HSE)" label="UK Health and Safety Executive (HSE)">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="British Venture Capital Association" label="British Venture Capital Association">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Central London Forward" label="Central London Forward">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Foreign, Commonwealth and Development Office" label="Foreign, Commonwealth and Development Office">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="DesignBuilder Software Ltd" label="DesignBuilder Software Ltd">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+      <node id="Innovate UK " label="Innovate UK ">
+        <attvalues>
+          <attvalue for="0" value="funder" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Natural Environment Research Council (NERC)" id="0" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="European Research Council (ERC)" id="1" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="UK Energy Research Centre" id="2" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Engineering &amp; Physical Sciences Research Council (EPSRC)" id="3" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Medical Research Council (MRC)" id="4" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Economic and Social Research Council (ESRC)" id="5" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Chartered Institution of Building Services Engineers (CIBSE)" id="6" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Wellcome Trust" id="7" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="UK Research and Innovation" id="8" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Croatian Science Foundation" id="9" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="EU Horizon" id="10" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="European Union’s Horizon 2020" id="11" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Polygon UK" id="12" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="City of London Archaeological Trust" id="13" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="National Institute for Health Research (NIHR)" id="14" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="UK Health and Safety Executive (HSE)" id="15" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="EU Seventh Framework Programme" id="16" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Foreign, Commonwealth and Development Office" id="17" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="DesignBuilder Software Ltd" id="18" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Innovate UK " id="19" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="Engineering &amp; Physical Sciences Research Council (EPSRC)" id="20" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="The Centre for Sustainable Road Freight" id="21" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="European Union" id="22" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="China Scholarship Council" id="23" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="Greater London Authority (GLA)" id="24" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="Economic and Social Research Council (ESRC)" id="25" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="Transport for London (TfL)" id="26" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="European Research Council (ERC)" id="27" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="Tsinghua University Open Fund" id="28" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="Ordnance Survey" id="29" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="Welsh Assembly Government" id="30" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="British Venture Capital Association" id="31" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="Central London Forward" id="32" />
+      <edge source="Bartlett School of Planning" target="Economic and Social Research Council (ESRC)" id="33" />
+      <edge source="Bartlett School of Planning" target="UCL Grand Challenges" id="34" />
+      <edge source="Bartlett School of Planning" target="British Council" id="35" />
+      <edge source="Bartlett School of Planning" target="Engineering &amp; Physical Sciences Research Council (EPSRC)" id="36" />
+      <edge source="Bartlett School of Planning" target="EU Seventh Framework Programme" id="37" />
+      <edge source="Bartlett School of Planning" target="Office Government Scientist" id="38" />
+      <edge source="Bartlett School of Planning" target="UCL Impact" id="39" />
+      <edge source="Bartlett School of Architecture" target="Engineering &amp; Physical Sciences Research Council (EPSRC)" id="40" />
+      <edge source="Bartlett School of Architecture" target="Arts and Humanities Research Council (AHRC)" id="41" />
+      <edge source="Engineering &amp; Physical Sciences Research Council (EPSRC)" target="Bartlett School of Sustainable Construction" id="42" />
+      <edge source="Bartlett Development Planning Unit" target="Treaty of Windsor Programme" id="43" />
+      <edge source="Bartlett Development Planning Unit" target="EU Seventh Framework Programme" id="44" />
+      <edge source="Bartlett School of Sustainable Construction" target="Economic and Social Research Council (ESRC)" id="45" />
+      <edge source="UCL Urban Laboratory" target="British Academy (BA)" id="46" />
+      <edge source="UCL Urban Laboratory" target="Leverhulme Trust" id="47" />
+      <edge source="UCL Institute for Innovation and Public Purpose" target="Hackney Council" id="48" />
+      <edge source="UCL Institute for Innovation and Public Purpose" target="Camden Council" id="49" />
+    </edges>
+  </graph>
+</gexf>

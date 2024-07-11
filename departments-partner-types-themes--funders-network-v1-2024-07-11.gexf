@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-07-11">
+    <creator>NetworkX 3.0</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="node_type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Bartlett School of Environment, Energy and Resources" label="Bartlett School of Environment, Energy and Resources">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Technology and Computation" label="Technology and Computation">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="Planning and Policy" label="Planning and Policy">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="Bartlett Centre for Advanced Spatial Analysis" label="Bartlett Centre for Advanced Spatial Analysis">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Other" label="Other">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="UCL Institute for Global Prosperity" label="UCL Institute for Global Prosperity">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Social Sciences and Humanities" label="Social Sciences and Humanities">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="Sustainability" label="Sustainability">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="Bartlett School of Planning" label="Bartlett School of Planning">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Health" label="Health">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="Bartlett School of Architecture" label="Bartlett School of Architecture">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Design" label="Design">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="Bartlett Development Planning Unit" label="Bartlett Development Planning Unit">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Bartlett School of Sustainable Construction" label="Bartlett School of Sustainable Construction">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Construction and Engineering" label="Construction and Engineering">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="UCL Urban Laboratory" label="UCL Urban Laboratory">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Urban" label="Urban">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="UCL Institute for Innovation and Public Purpose" label="UCL Institute for Innovation and Public Purpose">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Technology and Computation" id="0" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Planning and Policy" id="1" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Sustainability" id="2" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Health" id="3" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Construction and Engineering" id="4" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Social Sciences and Humanities" id="5" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Other" id="6" />
+      <edge source="Bartlett School of Environment, Energy and Resources" target="Design" id="7" />
+      <edge source="Technology and Computation" target="Bartlett Centre for Advanced Spatial Analysis" id="8" />
+      <edge source="Technology and Computation" target="Bartlett School of Architecture" id="9" />
+      <edge source="Planning and Policy" target="Bartlett Centre for Advanced Spatial Analysis" id="10" />
+      <edge source="Planning and Policy" target="Bartlett School of Planning" id="11" />
+      <edge source="Planning and Policy" target="Bartlett School of Architecture" id="12" />
+      <edge source="Planning and Policy" target="UCL Urban Laboratory" id="13" />
+      <edge source="Planning and Policy" target="Bartlett Development Planning Unit" id="14" />
+      <edge source="Planning and Policy" target="Bartlett School of Sustainable Construction" id="15" />
+      <edge source="Planning and Policy" target="UCL Institute for Global Prosperity" id="16" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="Other" id="17" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="Urban" id="18" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="Social Sciences and Humanities" id="19" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="Design" id="20" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="Sustainability" id="21" />
+      <edge source="Bartlett Centre for Advanced Spatial Analysis" target="Construction and Engineering" id="22" />
+      <edge source="Other" target="Bartlett Development Planning Unit" id="23" />
+      <edge source="Other" target="Bartlett School of Architecture" id="24" />
+      <edge source="Other" target="Bartlett School of Planning" id="25" />
+      <edge source="Other" target="Bartlett School of Sustainable Construction" id="26" />
+      <edge source="UCL Institute for Global Prosperity" target="Social Sciences and Humanities" id="27" />
+      <edge source="UCL Institute for Global Prosperity" target="Sustainability" id="28" />
+      <edge source="Social Sciences and Humanities" target="Bartlett School of Architecture" id="29" />
+      <edge source="Social Sciences and Humanities" target="UCL Urban Laboratory" id="30" />
+      <edge source="Social Sciences and Humanities" target="Bartlett School of Planning" id="31" />
+      <edge source="Social Sciences and Humanities" target="Bartlett School of Sustainable Construction" id="32" />
+      <edge source="Sustainability" target="Bartlett School of Architecture" id="33" />
+      <edge source="Sustainability" target="Bartlett School of Planning" id="34" />
+      <edge source="Sustainability" target="UCL Institute for Innovation and Public Purpose" id="35" />
+      <edge source="Bartlett School of Planning" target="Health" id="36" />
+      <edge source="Bartlett School of Planning" target="Design" id="37" />
+      <edge source="Bartlett School of Planning" target="Construction and Engineering" id="38" />
+      <edge source="Health" target="Bartlett School of Sustainable Construction" id="39" />
+      <edge source="Bartlett School of Architecture" target="Design" id="40" />
+      <edge source="Bartlett School of Architecture" target="Construction and Engineering" id="41" />
+      <edge source="Design" target="Bartlett School of Sustainable Construction" id="42" />
+      <edge source="Bartlett School of Sustainable Construction" target="Construction and Engineering" id="43" />
+    </edges>
+  </graph>
+</gexf>

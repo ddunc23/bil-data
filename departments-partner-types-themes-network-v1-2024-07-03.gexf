@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-07-04">
+    <creator>NetworkX 3.0</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="node_type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="School of Sustainable Construction" label="School of Sustainable Construction">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="History" label="History">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="Centre for Advanced Spatial Analysis" label="Centre for Advanced Spatial Analysis">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Housing" label="Housing">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="School of Architecture" label="School of Architecture">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Climate" label="Climate">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="Researcher" label="Researcher">
+        <attvalues>
+          <attvalue for="0" value="partnership" />
+        </attvalues>
+      </node>
+      <node id="Urban" label="Urban">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="Energy Institute" label="Energy Institute">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Voluntary Organisation" label="Voluntary Organisation">
+        <attvalues>
+          <attvalue for="0" value="partnership" />
+        </attvalues>
+      </node>
+      <node id="Public Body" label="Public Body">
+        <attvalues>
+          <attvalue for="0" value="partnership" />
+        </attvalues>
+      </node>
+      <node id="Property Developer" label="Property Developer">
+        <attvalues>
+          <attvalue for="0" value="partnership" />
+        </attvalues>
+      </node>
+      <node id="School of Planning" label="School of Planning">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Economy" label="Economy">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="Institute for Environmental Design and Engineering" label="Institute for Environmental Design and Engineering">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="School of Construction and Project Management" label="School of Construction and Project Management">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Business" label="Business">
+        <attvalues>
+          <attvalue for="0" value="partnership" />
+        </attvalues>
+      </node>
+      <node id="Urban Laboratory" label="Urban Laboratory">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Institute for Global Prosperity" label="Institute for Global Prosperity">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Member of the Public" label="Member of the Public">
+        <attvalues>
+          <attvalue for="0" value="partnership" />
+        </attvalues>
+      </node>
+      <node id="Culture" label="Culture">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="Members of the Public" label="Members of the Public">
+        <attvalues>
+          <attvalue for="0" value="partnership" />
+        </attvalues>
+      </node>
+      <node id="Health" label="Health">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="Student" label="Student">
+        <attvalues>
+          <attvalue for="0" value="partnership" />
+        </attvalues>
+      </node>
+      <node id="COVID-19" label="COVID-19">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="Policy" label="Policy">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="School of Environment, Energy and Resources" label="School of Environment, Energy and Resources">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Envrionment" label="Envrionment">
+        <attvalues>
+          <attvalue for="0" value="subject" />
+        </attvalues>
+      </node>
+      <node id="Institutional Body" label="Institutional Body">
+        <attvalues>
+          <attvalue for="0" value="partnership" />
+        </attvalues>
+      </node>
+      <node id="Institute for Sustainable Heritage" label="Institute for Sustainable Heritage">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Institute for Sustainable Resources" label="Institute for Sustainable Resources">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Research Organisation" label="Research Organisation">
+        <attvalues>
+          <attvalue for="0" value="partnership" />
+        </attvalues>
+      </node>
+      <node id="School" label="School">
+        <attvalues>
+          <attvalue for="0" value="partnership" />
+        </attvalues>
+      </node>
+      <node id="Institute for Innovation and Public Purpose" label="Institute for Innovation and Public Purpose">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+      <node id="Consultancy" label="Consultancy">
+        <attvalues>
+          <attvalue for="0" value="partnership" />
+        </attvalues>
+      </node>
+      <node id="Built Environment Faculty Office" label="Built Environment Faculty Office">
+        <attvalues>
+          <attvalue for="0" value="department" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="School of Sustainable Construction" target="History" id="0" />
+      <edge source="School of Sustainable Construction" target="Climate" id="1" />
+      <edge source="School of Sustainable Construction" target="Student" id="2" />
+      <edge source="School of Sustainable Construction" target="Researcher" id="3" />
+      <edge source="School of Sustainable Construction" target="Public Body" id="4" />
+      <edge source="School of Sustainable Construction" target="Business" id="5" />
+      <edge source="History" target="School of Architecture" id="6" />
+      <edge source="Centre for Advanced Spatial Analysis" target="Housing" id="7" />
+      <edge source="Centre for Advanced Spatial Analysis" target="Business" id="8" />
+      <edge source="Centre for Advanced Spatial Analysis" target="Urban" id="9" />
+      <edge source="Centre for Advanced Spatial Analysis" target="Culture" id="10" />
+      <edge source="Centre for Advanced Spatial Analysis" target="Researcher" id="11" />
+      <edge source="Centre for Advanced Spatial Analysis" target="Research Organisation" id="12" />
+      <edge source="Centre for Advanced Spatial Analysis" target="Member of the Public" id="13" />
+      <edge source="Centre for Advanced Spatial Analysis" target="Public Body" id="14" />
+      <edge source="Housing" target="Energy Institute" id="15" />
+      <edge source="Housing" target="School of Planning" id="16" />
+      <edge source="Housing" target="Institute for Environmental Design and Engineering" id="17" />
+      <edge source="Housing" target="School of Architecture" id="18" />
+      <edge source="Housing" target="Urban Laboratory" id="19" />
+      <edge source="School of Architecture" target="Researcher" id="20" />
+      <edge source="School of Architecture" target="Urban" id="21" />
+      <edge source="School of Architecture" target="School" id="22" />
+      <edge source="School of Architecture" target="Business" id="23" />
+      <edge source="Climate" target="Institute for Environmental Design and Engineering" id="24" />
+      <edge source="Climate" target="School of Planning" id="25" />
+      <edge source="Climate" target="Energy Institute" id="26" />
+      <edge source="Researcher" target="School of Construction and Project Management" id="27" />
+      <edge source="Researcher" target="Institute for Global Prosperity" id="28" />
+      <edge source="Researcher" target="Institute for Environmental Design and Engineering" id="29" />
+      <edge source="Researcher" target="School of Planning" id="30" />
+      <edge source="Researcher" target="Energy Institute" id="31" />
+      <edge source="Urban" target="School of Planning" id="32" />
+      <edge source="Urban" target="Urban Laboratory" id="33" />
+      <edge source="Urban" target="Institute for Global Prosperity" id="34" />
+      <edge source="Urban" target="Institute for Environmental Design and Engineering" id="35" />
+      <edge source="Energy Institute" target="Voluntary Organisation" id="36" />
+      <edge source="Energy Institute" target="Public Body" id="37" />
+      <edge source="Energy Institute" target="Property Developer" id="38" />
+      <edge source="Energy Institute" target="Policy" id="39" />
+      <edge source="Voluntary Organisation" target="School of Planning" id="40" />
+      <edge source="Voluntary Organisation" target="Urban Laboratory" id="41" />
+      <edge source="Voluntary Organisation" target="School of Environment, Energy and Resources" id="42" />
+      <edge source="Public Body" target="School of Planning" id="43" />
+      <edge source="Public Body" target="Institute for Innovation and Public Purpose" id="44" />
+      <edge source="School of Planning" target="Economy" id="45" />
+      <edge source="School of Planning" target="Member of the Public" id="46" />
+      <edge source="School of Planning" target="Health" id="47" />
+      <edge source="School of Planning" target="Business" id="48" />
+      <edge source="Economy" target="School of Construction and Project Management" id="49" />
+      <edge source="Institute for Environmental Design and Engineering" target="Members of the Public" id="50" />
+      <edge source="Institute for Environmental Design and Engineering" target="Health" id="51" />
+      <edge source="Institute for Environmental Design and Engineering" target="Business" id="52" />
+      <edge source="Institute for Environmental Design and Engineering" target="COVID-19" id="53" />
+      <edge source="Institute for Environmental Design and Engineering" target="Policy" id="54" />
+      <edge source="Institute for Environmental Design and Engineering" target="Member of the Public" id="55" />
+      <edge source="Institute for Environmental Design and Engineering" target="Envrionment" id="56" />
+      <edge source="Institute for Environmental Design and Engineering" target="Institutional Body" id="57" />
+      <edge source="Business" target="School of Environment, Energy and Resources" id="58" />
+      <edge source="Institute for Global Prosperity" target="Member of the Public" id="59" />
+      <edge source="School of Environment, Energy and Resources" target="Envrionment" id="60" />
+      <edge source="School of Environment, Energy and Resources" target="Consultancy" id="61" />
+      <edge source="School of Environment, Energy and Resources" target="School" id="62" />
+    </edges>
+  </graph>
+</gexf>
