@@ -1,0 +1,1001 @@
+Source,Target,Step from,Step to,Count
+London,Lambeth,1,2,1
+Lambeth,St Paul's Cathedral  ,2,3,1
+Lambeth,St James Garlickhythe  ,2,3,1
+Lambeth,Greenwich Hospital  ,2,3,1
+Lambeth,Westminster Abbey ,2,3,1
+Lambeth,Middle Temple ,2,3,1
+Lambeth,Bridge House  ,2,3,1
+Lambeth,Westminster Bridge  ,2,3,1
+Lambeth,Blenheim Estate ,2,3,1
+London,City of London,1,2,1
+City of London,St Paul's Cathedral  ,2,3,1
+City of London,St James Garlickhythe  ,2,3,1
+City of London,Greenwich Hospital  ,2,3,1
+City of London,Westminster Abbey ,2,3,1
+City of London,Middle Temple ,2,3,1
+City of London,Bridge House  ,2,3,1
+City of London,Westminster Bridge  ,2,3,1
+City of London,Blenheim Estate ,2,3,1
+London,Southwark,1,2,1
+Southwark,St Paul's Cathedral  ,2,3,1
+Southwark,St James Garlickhythe  ,2,3,1
+Southwark,Greenwich Hospital  ,2,3,1
+Southwark,Westminster Abbey ,2,3,1
+Southwark,Middle Temple ,2,3,1
+Southwark,Bridge House  ,2,3,1
+Southwark,Westminster Bridge  ,2,3,1
+Southwark,Blenheim Estate ,2,3,1
+London,Greenwich,1,2,1
+Greenwich,St Paul's Cathedral  ,2,3,1
+Greenwich,St James Garlickhythe  ,2,3,1
+Greenwich,Greenwich Hospital  ,2,3,1
+Greenwich,Westminster Abbey ,2,3,1
+Greenwich,Middle Temple ,2,3,1
+Greenwich,Bridge House  ,2,3,1
+Greenwich,Westminster Bridge  ,2,3,1
+Greenwich,Blenheim Estate ,2,3,1
+London,Westminster,1,2,1
+Westminster,St Paul's Cathedral  ,2,3,1
+Westminster,St James Garlickhythe  ,2,3,1
+Westminster,Greenwich Hospital  ,2,3,1
+Westminster,Westminster Abbey ,2,3,1
+Westminster,Middle Temple ,2,3,1
+Westminster,Bridge House  ,2,3,1
+Westminster,Westminster Bridge  ,2,3,1
+Westminster,Blenheim Estate ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,"17 Leman Street, Whitechapel ",2,3,1
+London,City of London,1,2,1
+City of London,St Paul's Cathedral ,2,3,1
+City of London, ,2,3,1
+City of London,London Bridge,2,3,1
+City of London,,2,3,1
+London,Westminster,1,2,1
+Westminster,Churchill Gardens Social Housing ,2,3,1
+London,Croydon,1,2,1
+Croydon,Surbiton ,2,3,1
+Croydon,South Norwood ,2,3,1
+London,Kingston upon Thames,1,2,1
+Kingston upon Thames,Surbiton ,2,3,1
+Kingston upon Thames,South Norwood ,2,3,1
+London,Hillingdon,1,2,1
+Hillingdon,London Heathrow Terminal 2 ,2,3,1
+London,City of London,1,2,1
+City of London,Bank Underground Station ,2,3,1
+London,City of London,1,2,1
+City of London,St Paul's Cathedral  ,2,3,1
+City of London,,2,3,1
+City of London,Greenwich Hospital  ,2,3,1
+London,Greenwich,1,2,1
+Greenwich,St Paul's Cathedral  ,2,3,1
+Greenwich,,2,3,1
+Greenwich,Greenwich Hospital  ,2,3,1
+London,Southwark,1,2,1
+Southwark,Bermondsey ,2,3,1
+Southwark,Hackney ,2,3,1
+London,Hackney,1,2,1
+Hackney,Bermondsey ,2,3,1
+Hackney,Hackney ,2,3,1
+London,Camden,1,2,1
+Camden,Brunswick Centre ,2,3,1
+London,Newham,1,2,1
+Newham,East Village ,2,3,1
+Newham,,2,3,1
+Newham,Stratford  ,2,3,1
+Newham,,2,3,1
+Newham,Hackney Wick  ,2,3,1
+London,Hackney,1,2,1
+Hackney,East Village ,2,3,1
+Hackney,,2,3,1
+Hackney,Stratford  ,2,3,1
+Hackney,,2,3,1
+Hackney,Hackney Wick  ,2,3,1
+London,City of London,1,2,1
+City of London,St Paul's Cathedral  ,2,3,1
+London,Wandsworth,1,2,1
+Wandsworth,Alton Estate ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,Queen Elizabeth Olympic Park ,2,3,1
+Lambeth,,2,3,1
+Lambeth,Brixton ,2,3,1
+London,Newham,1,2,1
+Newham,Queen Elizabeth Olympic Park ,2,3,1
+Newham,,2,3,1
+Newham,Brixton ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,Vauxhall ,2,3,1
+Lambeth,Nine Elms ,2,3,1
+Lambeth,Battersea Opportunity Area ,2,3,1
+London,Wandsworth,1,2,1
+Wandsworth,Vauxhall ,2,3,1
+Wandsworth,Nine Elms ,2,3,1
+Wandsworth,Battersea Opportunity Area ,2,3,1
+London,Brent,1,2,1
+Brent,Brent ,2,3,1
+Brent,Wandle River ,2,3,1
+London,Merton,1,2,1
+Merton,Brent ,2,3,1
+Merton,Wandle River ,2,3,1
+London,Hackney,1,2,1
+Hackney,Hackney ,2,3,1
+London,Barnet,1,2,1
+Barnet,Queenswell Junior Primary School ,2,3,1
+London,Greenwich,1,2,1
+Greenwich,Thamesmead ,2,3,1
+London,Kensington and Chelsea,1,2,1
+Kensington and Chelsea,Cadogan Estates ,2,3,1
+Kensington and Chelsea,,2,3,1
+Kensington and Chelsea,Shaftesbury Estate ,2,3,1
+London,Westminster,1,2,1
+Westminster,Cadogan Estates ,2,3,1
+Westminster,,2,3,1
+Westminster,Shaftesbury Estate ,2,3,1
+London,Greenwich,1,2,1
+Greenwich,Thamesmead Waterfront Development ,2,3,1
+London,Westminster,1,2,1
+Westminster,Charing Cross ,2,3,1
+London,Kensington and Chelsea,1,2,1
+Kensington and Chelsea,West End ,2,3,1
+Kensington and Chelsea,City of London ,2,3,1
+Kensington and Chelsea,Camden ,2,3,1
+Kensington and Chelsea,St Pancras ,2,3,1
+Kensington and Chelsea,Chelsea ,2,3,1
+Kensington and Chelsea,Fulham ,2,3,1
+London,City of London,1,2,1
+City of London,West End ,2,3,1
+City of London,City of London ,2,3,1
+City of London,Camden ,2,3,1
+City of London,St Pancras ,2,3,1
+City of London,Chelsea ,2,3,1
+City of London,Fulham ,2,3,1
+London,Hammersmith and Fulham,1,2,1
+Hammersmith and Fulham,West End ,2,3,1
+Hammersmith and Fulham,City of London ,2,3,1
+Hammersmith and Fulham,Camden ,2,3,1
+Hammersmith and Fulham,St Pancras ,2,3,1
+Hammersmith and Fulham,Chelsea ,2,3,1
+Hammersmith and Fulham,Fulham ,2,3,1
+London,Camden,1,2,1
+Camden,West End ,2,3,1
+Camden,City of London ,2,3,1
+Camden,Camden ,2,3,1
+Camden,St Pancras ,2,3,1
+Camden,Chelsea ,2,3,1
+Camden,Fulham ,2,3,1
+London,City of London,1,2,1
+City of London,Aldgate Square ,2,3,1
+City of London,,2,3,1
+City of London,Bank Station ,2,3,1
+London,Islington,1,2,1
+Islington,Islington ,2,3,1
+London,Hammersmith and Fulham,1,2,1
+Hammersmith and Fulham,Ealing ,2,3,1
+Hammersmith and Fulham,,2,3,1
+Hammersmith and Fulham,Brent ,2,3,1
+Hammersmith and Fulham,,2,3,1
+Hammersmith and Fulham,Hammersmith and Fulham ,2,3,1
+London,Ealing,1,2,1
+Ealing,Ealing ,2,3,1
+Ealing,,2,3,1
+Ealing,Brent ,2,3,1
+Ealing,,2,3,1
+Ealing,Hammersmith and Fulham ,2,3,1
+London,Barnet,1,2,1
+Barnet,Ealing ,2,3,1
+Barnet,,2,3,1
+Barnet,Brent ,2,3,1
+Barnet,,2,3,1
+Barnet,Hammersmith and Fulham ,2,3,1
+London,Westminster,1,2,1
+Westminster,UCL main Campus ,2,3,1
+London,Hackney,1,2,1
+Hackney,East London ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,Barking and Dagenham ,2,3,1
+Tower Hamlets,Newham ,2,3,1
+Tower Hamlets,Bromley by Bow ,2,3,1
+Tower Hamlets,Tower Hamlets ,2,3,1
+Tower Hamlets,Stratford ,2,3,1
+Tower Hamlets,Hackney ,2,3,1
+London,Newham,1,2,1
+Newham,Barking and Dagenham ,2,3,1
+Newham,Newham ,2,3,1
+Newham,Bromley by Bow ,2,3,1
+Newham,Tower Hamlets ,2,3,1
+Newham,Stratford ,2,3,1
+Newham,Hackney ,2,3,1
+London,Hackney,1,2,1
+Hackney,Barking and Dagenham ,2,3,1
+Hackney,Newham ,2,3,1
+Hackney,Bromley by Bow ,2,3,1
+Hackney,Tower Hamlets ,2,3,1
+Hackney,Stratford ,2,3,1
+Hackney,Hackney ,2,3,1
+London,Barking and Dagenham,1,2,1
+Barking and Dagenham,Barking and Dagenham ,2,3,1
+Barking and Dagenham,Newham ,2,3,1
+Barking and Dagenham,Bromley by Bow ,2,3,1
+Barking and Dagenham,Tower Hamlets ,2,3,1
+Barking and Dagenham,Stratford ,2,3,1
+Barking and Dagenham,Hackney ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,Tower Hamlets ,2,3,1
+London,Westminster,1,2,1
+Westminster,Borough of Westminster ,2,3,1
+London,Brent,1,2,1
+Brent,"Care home PA, West London ",2,3,1
+Brent,"Care home VI, London NW10 ",2,3,1
+London,Westminster,1,2,1
+Westminster,"Care home PA, West London ",2,3,1
+Westminster,"Care home VI, London NW10 ",2,3,1
+London,Camden,1,2,1
+Camden,Canary Wharf ,2,3,1
+Camden,Stratford ,2,3,1
+Camden,King's Cross ,2,3,1
+Camden,Paddington ,2,3,1
+Camden,Victoria ,2,3,1
+London,Newham,1,2,1
+Newham,Canary Wharf ,2,3,1
+Newham,Stratford ,2,3,1
+Newham,King's Cross ,2,3,1
+Newham,Paddington ,2,3,1
+Newham,Victoria ,2,3,1
+London,Westminster,1,2,1
+Westminster,Canary Wharf ,2,3,1
+Westminster,Stratford ,2,3,1
+Westminster,King's Cross ,2,3,1
+Westminster,Paddington ,2,3,1
+Westminster,Victoria ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,Canary Wharf ,2,3,1
+Tower Hamlets,Stratford ,2,3,1
+Tower Hamlets,King's Cross ,2,3,1
+Tower Hamlets,Paddington ,2,3,1
+Tower Hamlets,Victoria ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross Central Redevelopment ,2,3,1
+Camden,St. Pancras International Station ,2,3,1
+Camden,Heathrow T2 ,2,3,1
+Camden,Heathrow T5 ,2,3,1
+Camden,Queen Elizabeth Olympic Park ,2,3,1
+London,Hillingdon,1,2,1
+Hillingdon,King's Cross Central Redevelopment ,2,3,1
+Hillingdon,St. Pancras International Station ,2,3,1
+Hillingdon,Heathrow T2 ,2,3,1
+Hillingdon,Heathrow T5 ,2,3,1
+Hillingdon,Queen Elizabeth Olympic Park ,2,3,1
+London,Newham,1,2,1
+Newham,King's Cross Central Redevelopment ,2,3,1
+Newham,St. Pancras International Station ,2,3,1
+Newham,Heathrow T2 ,2,3,1
+Newham,Heathrow T5 ,2,3,1
+Newham,Queen Elizabeth Olympic Park ,2,3,1
+London,Hackney,1,2,1
+Hackney,East London ,2,3,1
+London,Southwark,1,2,1
+Southwark,Hackney Mare Street ,2,3,1
+Southwark,Old Kent Road ,2,3,1
+London,Hackney,1,2,1
+Hackney,Hackney Mare Street ,2,3,1
+Hackney,Old Kent Road ,2,3,1
+London,Ealing,1,2,1
+Ealing,The London Borough of Ealing ,2,3,1
+London,Hackney,1,2,1
+Hackney,East London ,2,3,1
+London,City of London,1,2,1
+City of London,Brothers of Konin  ,2,3,1
+City of London,"Cannon Street Road Synagogue  ( 51.5110368,-0.0872455)",2,3,1
+City of London,Chevra Shass ,2,3,1
+City of London,Chevra Torah ,2,3,1
+City of London,Crawcour Synagogue ,2,3,1
+City of London,Fieldgate Street Synagogue ,2,3,1
+City of London,Great Garden Street Synagogue ,2,3,1
+City of London,Greenfield Street Synagogue ,2,3,1
+City of London,House of David United Brethren Chevra ,2,3,1
+City of London,Limciecz Synagogue ,2,3,1
+City of London,Mile End New Town Synagogue ,2,3,1
+City of London,New Hambro ,2,3,1
+City of London,Plotsker ,2,3,1
+City of London,The Brethren of Suwalki Synagogue ,2,3,1
+City of London,Central Synagogue ,2,3,1
+City of London,The Western Synagogue ,2,3,1
+City of London,West End Talmud Torah ,2,3,1
+City of London,West London Synagogue ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,Brothers of Konin  ,2,3,1
+Tower Hamlets,"Cannon Street Road Synagogue  ( 51.5110368,-0.0872455)",2,3,1
+Tower Hamlets,Chevra Shass ,2,3,1
+Tower Hamlets,Chevra Torah ,2,3,1
+Tower Hamlets,Crawcour Synagogue ,2,3,1
+Tower Hamlets,Fieldgate Street Synagogue ,2,3,1
+Tower Hamlets,Great Garden Street Synagogue ,2,3,1
+Tower Hamlets,Greenfield Street Synagogue ,2,3,1
+Tower Hamlets,House of David United Brethren Chevra ,2,3,1
+Tower Hamlets,Limciecz Synagogue ,2,3,1
+Tower Hamlets,Mile End New Town Synagogue ,2,3,1
+Tower Hamlets,New Hambro ,2,3,1
+Tower Hamlets,Plotsker ,2,3,1
+Tower Hamlets,The Brethren of Suwalki Synagogue ,2,3,1
+Tower Hamlets,Central Synagogue ,2,3,1
+Tower Hamlets,The Western Synagogue ,2,3,1
+Tower Hamlets,West End Talmud Torah ,2,3,1
+Tower Hamlets,West London Synagogue ,2,3,1
+London,Barnet,1,2,1
+Barnet,Brothers of Konin  ,2,3,1
+Barnet,"Cannon Street Road Synagogue  ( 51.5110368,-0.0872455)",2,3,1
+Barnet,Chevra Shass ,2,3,1
+Barnet,Chevra Torah ,2,3,1
+Barnet,Crawcour Synagogue ,2,3,1
+Barnet,Fieldgate Street Synagogue ,2,3,1
+Barnet,Great Garden Street Synagogue ,2,3,1
+Barnet,Greenfield Street Synagogue ,2,3,1
+Barnet,House of David United Brethren Chevra ,2,3,1
+Barnet,Limciecz Synagogue ,2,3,1
+Barnet,Mile End New Town Synagogue ,2,3,1
+Barnet,New Hambro ,2,3,1
+Barnet,Plotsker ,2,3,1
+Barnet,The Brethren of Suwalki Synagogue ,2,3,1
+Barnet,Central Synagogue ,2,3,1
+Barnet,The Western Synagogue ,2,3,1
+Barnet,West End Talmud Torah ,2,3,1
+Barnet,West London Synagogue ,2,3,1
+London,Greenwich,1,2,1
+Greenwich,Brothers of Konin  ,2,3,1
+Greenwich,"Cannon Street Road Synagogue  ( 51.5110368,-0.0872455)",2,3,1
+Greenwich,Chevra Shass ,2,3,1
+Greenwich,Chevra Torah ,2,3,1
+Greenwich,Crawcour Synagogue ,2,3,1
+Greenwich,Fieldgate Street Synagogue ,2,3,1
+Greenwich,Great Garden Street Synagogue ,2,3,1
+Greenwich,Greenfield Street Synagogue ,2,3,1
+Greenwich,House of David United Brethren Chevra ,2,3,1
+Greenwich,Limciecz Synagogue ,2,3,1
+Greenwich,Mile End New Town Synagogue ,2,3,1
+Greenwich,New Hambro ,2,3,1
+Greenwich,Plotsker ,2,3,1
+Greenwich,The Brethren of Suwalki Synagogue ,2,3,1
+Greenwich,Central Synagogue ,2,3,1
+Greenwich,The Western Synagogue ,2,3,1
+Greenwich,West End Talmud Torah ,2,3,1
+Greenwich,West London Synagogue ,2,3,1
+London,Westminster,1,2,1
+Westminster,Brothers of Konin  ,2,3,1
+Westminster,"Cannon Street Road Synagogue  ( 51.5110368,-0.0872455)",2,3,1
+Westminster,Chevra Shass ,2,3,1
+Westminster,Chevra Torah ,2,3,1
+Westminster,Crawcour Synagogue ,2,3,1
+Westminster,Fieldgate Street Synagogue ,2,3,1
+Westminster,Great Garden Street Synagogue ,2,3,1
+Westminster,Greenfield Street Synagogue ,2,3,1
+Westminster,House of David United Brethren Chevra ,2,3,1
+Westminster,Limciecz Synagogue ,2,3,1
+Westminster,Mile End New Town Synagogue ,2,3,1
+Westminster,New Hambro ,2,3,1
+Westminster,Plotsker ,2,3,1
+Westminster,The Brethren of Suwalki Synagogue ,2,3,1
+Westminster,Central Synagogue ,2,3,1
+Westminster,The Western Synagogue ,2,3,1
+Westminster,West End Talmud Torah ,2,3,1
+Westminster,West London Synagogue ,2,3,1
+London,Hackney,1,2,1
+Hackney,East London ,2,3,1
+London,City of London,1,2,1
+City of London,London National Park City ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,London Hospital by Rowland,2,3,1
+Tower Hamlets,Plumbe ,2,3,1
+London,Kensington and Chelsea,1,2,1
+Kensington and Chelsea,Acton ,2,3,1
+Kensington and Chelsea,Fulham ,2,3,1
+Kensington and Chelsea,Chelsea ,2,3,1
+Kensington and Chelsea,City of Westminster ,2,3,1
+Kensington and Chelsea,Islington ,2,3,1
+Kensington and Chelsea,Hackney ,2,3,1
+Kensington and Chelsea,Silvertown ,2,3,1
+London,Islington,1,2,1
+Islington,Acton ,2,3,1
+Islington,Fulham ,2,3,1
+Islington,Chelsea ,2,3,1
+Islington,City of Westminster ,2,3,1
+Islington,Islington ,2,3,1
+Islington,Hackney ,2,3,1
+Islington,Silvertown ,2,3,1
+London,Newham,1,2,1
+Newham,Acton ,2,3,1
+Newham,Fulham ,2,3,1
+Newham,Chelsea ,2,3,1
+Newham,City of Westminster ,2,3,1
+Newham,Islington ,2,3,1
+Newham,Hackney ,2,3,1
+Newham,Silvertown ,2,3,1
+London,Hammersmith and Fulham,1,2,1
+Hammersmith and Fulham,Acton ,2,3,1
+Hammersmith and Fulham,Fulham ,2,3,1
+Hammersmith and Fulham,Chelsea ,2,3,1
+Hammersmith and Fulham,City of Westminster ,2,3,1
+Hammersmith and Fulham,Islington ,2,3,1
+Hammersmith and Fulham,Hackney ,2,3,1
+Hammersmith and Fulham,Silvertown ,2,3,1
+London,Hackney,1,2,1
+Hackney,Acton ,2,3,1
+Hackney,Fulham ,2,3,1
+Hackney,Chelsea ,2,3,1
+Hackney,City of Westminster ,2,3,1
+Hackney,Islington ,2,3,1
+Hackney,Hackney ,2,3,1
+Hackney,Silvertown ,2,3,1
+London,Ealing,1,2,1
+Ealing,Acton ,2,3,1
+Ealing,Fulham ,2,3,1
+Ealing,Chelsea ,2,3,1
+Ealing,City of Westminster ,2,3,1
+Ealing,Islington ,2,3,1
+Ealing,Hackney ,2,3,1
+Ealing,Silvertown ,2,3,1
+London,Westminster,1,2,1
+Westminster,Acton ,2,3,1
+Westminster,Fulham ,2,3,1
+Westminster,Chelsea ,2,3,1
+Westminster,City of Westminster ,2,3,1
+Westminster,Islington ,2,3,1
+Westminster,Hackney ,2,3,1
+Westminster,Silvertown ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,London Borough of Tower Hamlets  ,2,3,1
+London,City of London,1,2,1
+City of London,City of London ,2,3,1
+London,Westminster,1,2,1
+Westminster,Hampstead Garden Suburb ,2,3,1
+Westminster,Soho ,2,3,1
+London,Barnet,1,2,1
+Barnet,Hampstead Garden Suburb ,2,3,1
+Barnet,Soho ,2,3,1
+London,Southwark,1,2,1
+Southwark,Bermondsey ,2,3,1
+Southwark,Canada Water ,2,3,1
+Southwark,Canning Town ,2,3,1
+Southwark,West Ham ,2,3,1
+London,Newham,1,2,1
+Newham,Bermondsey ,2,3,1
+Newham,Canada Water ,2,3,1
+Newham,Canning Town ,2,3,1
+Newham,West Ham ,2,3,1
+London,Croydon,1,2,1
+Croydon,London Borough of Croydon ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,"Becket House, Bouygues Uk, Central London ",2,3,1
+London,Camden,1,2,1
+Camden,Granary Square ,2,3,1
+London,Southwark,1,2,1
+Southwark,Canary Wharf ,2,3,1
+Southwark,"Canning Town ( 51.518968730466895, 0.013143456111088844) ",2,3,1
+Southwark,Bermondsey ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,Canary Wharf ,2,3,1
+Tower Hamlets,"Canning Town ( 51.518968730466895, 0.013143456111088844) ",2,3,1
+Tower Hamlets,Bermondsey ,2,3,1
+London,Camden,1,2,1
+Camden,Centre Point ,2,3,1
+London,Hackney,1,2,1
+Hackney,East London ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,London Borough of Lambeth ,2,3,1
+London,Newham,1,2,1
+Newham,Newham ,2,3,1
+London,Southwark,1,2,1
+Southwark,Bermondsey ,2,3,1
+Southwark,West Ham ,2,3,1
+London,Newham,1,2,1
+Newham,Bermondsey ,2,3,1
+Newham,West Ham ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,"Royal London Hospital, Whitechapel Rd, London E1 1FR ",2,3,1
+London,Camden,1,2,1
+Camden,Convent Garden ,2,3,1
+Camden,Seven Dials ,2,3,1
+Camden,Chelsea and Knightsbridge (this is too broad to find code),2,3,1
+London,Westminster,1,2,1
+Westminster,Convent Garden ,2,3,1
+Westminster,Seven Dials ,2,3,1
+Westminster,Chelsea and Knightsbridge (this is too broad to find code),2,3,1
+London,Southwark,1,2,1
+Southwark,Petticoat Lane street market  ,2,3,1
+Southwark,Borough Market ,2,3,1
+London,City of London,1,2,1
+City of London,Petticoat Lane street market  ,2,3,1
+City of London,Borough Market ,2,3,1
+London,Camden,1,2,1
+Camden,Shoreditch ,2,3,1
+Camden,Fitzrovia ,2,3,1
+London,Hackney,1,2,1
+Hackney,Shoreditch ,2,3,1
+Hackney,Fitzrovia ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,"Soho Works, The Tea Building 4th Floor, 56 Shoreditch High St, London E1 6JJ ",2,3,1
+London,Lambeth,1,2,1
+Lambeth,London Borough of Lambeth ,2,3,1
+London,Ealing,1,2,1
+Ealing,Ealing ,2,3,1
+London,Hackney,1,2,1
+Hackney,"Samuel House, Clarissa St, London E8 4FP ",2,3,1
+Hackney,"Balfron Tower, ",2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,"Samuel House, Clarissa St, London E8 4FP ",2,3,1
+Tower Hamlets,"Balfron Tower, ",2,3,1
+London,Camden,1,2,1
+Camden,"73 Chester Road, Dartmouth Park, London ",2,3,1
+London,Bromley,1,2,1
+Bromley,London Borough of Lewisham ,2,3,1
+Bromley,Camden ,2,3,1
+London,Westminster,1,2,1
+Westminster,London Borough of Lewisham ,2,3,1
+Westminster,Camden ,2,3,1
+London,Islington,1,2,1
+Islington,East London Tech City ,2,3,1
+London,City of London,1,2,1
+City of London,City of London ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,"Undercroft at the Southbank Centre, SE1 8XX, , ",2,3,1
+Lambeth,"Hungerford Bridge, SE1 8NZ,  ",2,3,1
+Lambeth,"House of Vans, SE1 8SW, ",2,3,1
+London,Southwark,1,2,1
+Southwark,"Undercroft at the Southbank Centre, SE1 8XX, , ",2,3,1
+Southwark,"Hungerford Bridge, SE1 8NZ,  ",2,3,1
+Southwark,"House of Vans, SE1 8SW, ",2,3,1
+London,Islington,1,2,1
+Islington,Islington ,2,3,1
+London,Islington,1,2,1
+Islington,Islington ,2,3,1
+London,City of London,1,2,1
+City of London,City of London ,2,3,1
+London,Camden,1,2,1
+Camden,Hackney  ,2,3,1
+Camden,Camden  ,2,3,1
+Camden,Newham ,2,3,1
+Camden,Wandsworth ,2,3,1
+London,Newham,1,2,1
+Newham,Hackney  ,2,3,1
+Newham,Camden  ,2,3,1
+Newham,Newham ,2,3,1
+Newham,Wandsworth ,2,3,1
+London,Hackney,1,2,1
+Hackney,Hackney  ,2,3,1
+Hackney,Camden  ,2,3,1
+Hackney,Newham ,2,3,1
+Hackney,Wandsworth ,2,3,1
+London,Wandsworth,1,2,1
+Wandsworth,Hackney  ,2,3,1
+Wandsworth,Camden  ,2,3,1
+Wandsworth,Newham ,2,3,1
+Wandsworth,Wandsworth ,2,3,1
+London,Westminster,1,2,1
+Westminster,"Apsley House, London, Apsley House, W1J 7NT, ",2,3,1
+London,Newham,1,2,1
+Newham,London Olympic Parkland ,2,3,1
+London,City of London,1,2,1
+City of London,City of London ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,Spa Hill and Windmills allotment sites ,2,3,1
+Lambeth,Brockwell Gardens ,2,3,1
+London,Croydon,1,2,1
+Croydon,Spa Hill and Windmills allotment sites ,2,3,1
+Croydon,Brockwell Gardens ,2,3,1
+London,Croydon,1,2,1
+Croydon,Surbiton ,2,3,1
+Croydon,South Norwood ,2,3,1
+London,Kingston upon Thames,1,2,1
+Kingston upon Thames,Surbiton ,2,3,1
+Kingston upon Thames,South Norwood ,2,3,1
+London,Croydon,1,2,1
+Croydon,Surbiton ,2,3,1
+Croydon,South Norwood ,2,3,1
+London,Kingston upon Thames,1,2,1
+Kingston upon Thames,Surbiton ,2,3,1
+Kingston upon Thames,South Norwood ,2,3,1
+London,Camden,1,2,1
+Camden,Camden ,2,3,1
+London,Islington,1,2,1
+Islington,East London Tech City ,2,3,1
+London,Newham,1,2,1
+Newham,Lower Lea river basin ,2,3,1
+London,Haringey,1,2,1
+Haringey,Hackney ,2,3,1
+Haringey,Tower Hamlets ,2,3,1
+Haringey,Newham  ,2,3,1
+Haringey,Waltham Forest ,2,3,1
+Haringey,Harringey ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,Hackney ,2,3,1
+Tower Hamlets,Tower Hamlets ,2,3,1
+Tower Hamlets,Newham  ,2,3,1
+Tower Hamlets,Waltham Forest ,2,3,1
+Tower Hamlets,Harringey ,2,3,1
+London,Waltham Forest,1,2,1
+Waltham Forest,Hackney ,2,3,1
+Waltham Forest,Tower Hamlets ,2,3,1
+Waltham Forest,Newham  ,2,3,1
+Waltham Forest,Waltham Forest ,2,3,1
+Waltham Forest,Harringey ,2,3,1
+London,Newham,1,2,1
+Newham,Hackney ,2,3,1
+Newham,Tower Hamlets ,2,3,1
+Newham,Newham  ,2,3,1
+Newham,Waltham Forest ,2,3,1
+Newham,Harringey ,2,3,1
+London,Hackney,1,2,1
+Hackney,Hackney ,2,3,1
+Hackney,Tower Hamlets ,2,3,1
+Hackney,Newham  ,2,3,1
+Hackney,Waltham Forest ,2,3,1
+Hackney,Harringey ,2,3,1
+London,Southwark,1,2,1
+Southwark,"7 More London, SE1 2RT, ",2,3,1
+London,Croydon,1,2,1
+Croydon,Barnet  ,2,3,1
+Croydon,South Norwood ,2,3,1
+Croydon,Surbiton ,2,3,1
+London,Kingston upon Thames,1,2,1
+Kingston upon Thames,Barnet  ,2,3,1
+Kingston upon Thames,South Norwood ,2,3,1
+Kingston upon Thames,Surbiton ,2,3,1
+London,Barnet,1,2,1
+Barnet,Barnet  ,2,3,1
+Barnet,South Norwood ,2,3,1
+Barnet,Surbiton ,2,3,1
+London,Croydon,1,2,1
+Croydon,Barnet ,2,3,1
+Croydon,South Norwood ,2,3,1
+Croydon,and Surbiton ,2,3,1
+London,Kingston upon Thames,1,2,1
+Kingston upon Thames,Barnet ,2,3,1
+Kingston upon Thames,South Norwood ,2,3,1
+Kingston upon Thames,and Surbiton ,2,3,1
+London,Barnet,1,2,1
+Barnet,Barnet ,2,3,1
+Barnet,South Norwood ,2,3,1
+Barnet,and Surbiton ,2,3,1
+London,Southwark,1,2,1
+Southwark,Kings Place ,2,3,1
+Southwark,Oxo Tower ,2,3,1
+London,Islington,1,2,1
+Islington,Kings Place ,2,3,1
+Islington,Oxo Tower ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,London borough of Tower Hamlets ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,Camden ,2,3,1
+Lambeth,Hackney ,2,3,1
+Lambeth,Lambeth ,2,3,1
+Lambeth,Wandsworth ,2,3,1
+London,Camden,1,2,1
+Camden,Camden ,2,3,1
+Camden,Hackney ,2,3,1
+Camden,Lambeth ,2,3,1
+Camden,Wandsworth ,2,3,1
+London,Hackney,1,2,1
+Hackney,Camden ,2,3,1
+Hackney,Hackney ,2,3,1
+Hackney,Lambeth ,2,3,1
+Hackney,Wandsworth ,2,3,1
+London,Wandsworth,1,2,1
+Wandsworth,Camden ,2,3,1
+Wandsworth,Hackney ,2,3,1
+Wandsworth,Lambeth ,2,3,1
+Wandsworth,Wandsworth ,2,3,1
+London,Harrow,1,2,1
+Harrow,City of Westminster  ,2,3,1
+Harrow,Borough of Harrow ,2,3,1
+London,Westminster,1,2,1
+Westminster,City of Westminster  ,2,3,1
+Westminster,Borough of Harrow ,2,3,1
+London,Westminster,1,2,1
+Westminster,Soho ,2,3,1
+Westminster,East End ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,Soho ,2,3,1
+Tower Hamlets,East End ,2,3,1
+London,Haringey,1,2,1
+Haringey,"Woodberry Down estate , N4",2,3,1
+London,Redbridge,1,2,1
+Redbridge,"London borough of Redbridge, ",2,3,1
+London,Harrow,1,2,1
+Harrow,Harrow ,2,3,1
+London,Camden,1,2,1
+Camden,"Canal Reach, Kings Cross redevelopment, London ",2,3,1
+London,Camden,1,2,1
+Camden,"Canal Reach, Kings Cross redevelopment, London ",2,3,1
+London,Westminster,1,2,1
+Westminster,"Utopia Treasury, Great Arch Hall, Somerset House, South Wing, Victoria Emankment, London WC2R 1LA ",2,3,1
+London,Lewisham,1,2,1
+Lewisham,"Horniman Primary School, London SE23 3BP ",2,3,1
+London,City of London,1,2,1
+City of London,"Cundall, One Carter Ln, London EC4V 5EY ",2,3,1
+London,Barking and Dagenham,1,2,1
+Barking and Dagenham,"Barking Town Hall, Town Hall Square, 1 Clockhouse Ave, Barking IG11 7LU ",2,3,1
+London,Camden,1,2,1
+Camden,"Senate House, Montague Place, London, WC1E 7HU, United Kingdom ",2,3,1
+London,Hackney,1,2,1
+Hackney,"Press Centre Here East Dock Office, London E15 2GZ ",2,3,1
+London,Newham,1,2,1
+Newham,"Queen's Market, outside Super Grows grocery store, Green St, London E13 9JJ ",2,3,1
+London,Newham,1,2,1
+Newham,"Queen's Market, Upton Park, Green St, Upton Park, London E13 9BA ",2,3,1
+London,Southwark,1,2,1
+Southwark,"Nell Gwynn Nursery School, SE15 2TT, London ",2,3,1
+Southwark,"Ann Bernadt Nursery School, SE15 6DT ",2,3,1
+Southwark,"Pembury House Nursery, N17 9XE ",2,3,1
+London,Haringey,1,2,1
+Haringey,"Nell Gwynn Nursery School, SE15 2TT, London ",2,3,1
+Haringey,"Ann Bernadt Nursery School, SE15 6DT ",2,3,1
+Haringey,"Pembury House Nursery, N17 9XE ",2,3,1
+London,Barnet,1,2,1
+Barnet,"Nansen Village, London N12 8AQ ",2,3,1
+London,Camden,1,2,1
+Camden,"Arup, 8 Fitzroy Street, London, W1T 4BQ ",2,3,1
+Camden,"Arup, 80 Charlotte Street, London ",2,3,1
+London,Lewisham,1,2,1
+Lewisham,"Unit 5A, Juno Way, London, SE14 5RW ",2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,"Wapping Hydraulic Power Station, London ",2,3,1
+London,Wandsworth,1,2,1
+Wandsworth,Foster and Partners and F+P hub,2,3,1
+Wandsworth,"Riverside, 22 Hester Rd, London SW11 4AN ",2,3,1
+London,Haringey,1,2,1
+Haringey,"Wolves Lane Centre, Wolves Lane, Haringey, London N22 5JD ",2,3,1
+London,Camden,1,2,1
+Camden,"Arup, 8 Fitzroy Street, London, W1T 4BQ ",2,3,1
+Camden,"Arup, 80 Charlotte Street, London ",2,3,1
+London,Newham,1,2,1
+Newham,"Millenium Mills, Rayleigh Rd, London E16 1UR ",2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,"Fruit & Wool Exchange, 1 Duval Square, London E1 6PW ",2,3,1
+London,Barking and Dagenham,1,2,1
+Barking and Dagenham,"Woolwich, London ",2,3,1
+Barking and Dagenham,"Barking, London ",2,3,1
+Barking and Dagenham,"Deptford, London ",2,3,1
+London,Lewisham,1,2,1
+Lewisham,"Woolwich, London ",2,3,1
+Lewisham,"Barking, London ",2,3,1
+Lewisham,"Deptford, London ",2,3,1
+London,Greenwich,1,2,1
+Greenwich,"Woolwich, London ",2,3,1
+Greenwich,"Barking, London ",2,3,1
+Greenwich,"Deptford, London ",2,3,1
+London,Camden,1,2,1
+Camden,"St Pancras Hospital, 4 St Pancras Way London; NW1 0PE ",2,3,1
+London,Islington,1,2,1
+Islington,"Finsbury Park at 37 Berkeley Walk, London ",2,3,1
+London,Camden,1,2,1
+Camden,Agar Grove Estate London NW1 9SY ,2,3,1
+London,Westminster,1,2,1
+Westminster,"ERCO Showroom, 38 Dover Street, London W1S 4NL ",2,3,1
+London,Westminster,1,2,1
+Westminster,"China exchange, 32A Gerrard St, London W1D 6JA ",2,3,1
+London,Richmond upon Thames,1,2,1
+Richmond upon Thames,"Kew Royal Botanic Gardens, Richmond, London, TW9 3JR ",2,3,1
+London,Kensington and Chelsea,1,2,1
+Kensington and Chelsea,"Exhibition Road, South Kensington, London, SW7 2DD ",2,3,1
+London,Greenwich,1,2,1
+Greenwich,"Royal Museums Greenwich, Romney Rd, London SE10 9NF ",2,3,1
+London,Kensington and Chelsea,1,2,1
+Kensington and Chelsea,"Cheltenham Estate, North Kensington, London ",2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,"Limehouse DLR and National Rail Station, Bekesbourne Street entrance 1, Bekesbourne Street, Ratcliffe, London, E14 7JE, United Kingdom ",2,3,1
+London,Newham,1,2,1
+Newham,"Baywaters Recycling Centre, Lea Riverside, Twelvetrees Crescent, London, E3 3JG ",2,3,1
+London,Newham,1,2,1
+Newham,Excel London,2,3,1
+Newham,One Western Gateway,2,3,1
+Newham,Royal Victoria Dock,2,3,1
+Newham,London E16 1XL,2,3,1
+Newham,,2,3,1
+London,Camden,1,2,1
+Camden,"Swiss Cottage Open Space, Belsize Park, London, Camden, England, United Kingdom ",2,3,1
+Camden,"Swiss Cottage Library, 88 Avenue Road, London, NW3 3HA, United Kingdom ",2,3,1
+London,Lambeth,1,2,1
+Lambeth,"Berkeley Group Site Offices, Oval Village Development, 283 Kennington Ln, London SE11 5QY ",2,3,1
+London,Enfield,1,2,1
+Enfield,"1 Ardra Road, London, N9 0BD ",2,3,1
+London,Brent,1,2,1
+Brent,"The Helix 180, North End Road, Wembley, London, HA9 0UU ",2,3,1
+London,Hackney,1,2,1
+Hackney,"Queen Elizabeth Olympic Park, Hackney Wick, London, Hackney, England, United Kingdom",2,3,1
+Hackney,,2,3,1
+London,Barking and Dagenham,1,2,1
+Barking and Dagenham,Barking Riverside,2,3,1
+Barking and Dagenham,"London, IG11 0TH, United Kingdom",2,3,1
+Barking and Dagenham,,2,3,1
+London,Hackney,1,2,1
+Hackney,"Hackney, E9 6QW, London United Kingdom ",2,3,1
+London,Camden,1,2,1
+Camden,Camden ,2,3,1
+London,Hackney,1,2,1
+Hackney,Hackney Council ,2,3,1
+London,Hackney,1,2,1
+Hackney,East London ,2,3,1
+London,Hackney,1,2,1
+Hackney,Hackney ,2,3,1
+London,Barking and Dagenham,1,2,1
+Barking and Dagenham,Barking and Dagenham ,2,3,1
+London,Newham,1,2,1
+Newham,East Bank ,2,3,1
+London,Camden,1,2,1
+Camden,Euston ,2,3,1
+London,Kensington and Chelsea,1,2,1
+Kensington and Chelsea,Westway Trust ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,Teviot Estate ,2,3,1
+London,Newham,1,2,1
+Newham,Stratford ,2,3,1
+London,Newham,1,2,1
+Newham,Moorfields Eye Hospital ,2,3,1
+London,Kensington and Chelsea,1,2,1
+Kensington and Chelsea,Trellick Tower ,2,3,1
+London,Newham,1,2,1
+Newham,Queen Elizabeth Olympic Park ,2,3,1
+London,Barnet,1,2,1
+Barnet,London Borough of Barnet ,2,3,1
+London,Brent,1,2,1
+Brent,South Kilburn ,2,3,1
+London,Southwark,1,2,1
+Southwark,United St Saviour's Charity ,2,3,1
+London,Hillingdon,1,2,1
+Hillingdon,High Speed 1,2,3,1
+Hillingdon,Heathrow Airport Terminal 5 ,2,3,1
+Hillingdon,London 2012 Olympics ,2,3,1
+Hillingdon,Crossrail ,2,3,1
+Hillingdon,Thames Tideway Tunnel,2,3,1
+Hillingdon,High Speed 2 ,2,3,1
+London,Newham,1,2,1
+Newham,High Speed 1,2,3,1
+Newham,Heathrow Airport Terminal 5 ,2,3,1
+Newham,London 2012 Olympics ,2,3,1
+Newham,Crossrail ,2,3,1
+Newham,Thames Tideway Tunnel,2,3,1
+Newham,High Speed 2 ,2,3,1
+London,Southwark,1,2,1
+Southwark,Southwark ,2,3,1
+London,Hillingdon,1,2,1
+Hillingdon,London City Airport ,2,3,1
+Hillingdon,Heathrow Airport ,2,3,1
+London,Newham,1,2,1
+Newham,London City Airport ,2,3,1
+Newham,Heathrow Airport ,2,3,1
+London,Richmond upon Thames,1,2,1
+Richmond upon Thames,Ham House ,2,3,1
+London,Westminster,1,2,1
+Westminster,Jewel Tower ,2,3,1
+London,Southwark,1,2,1
+Southwark,Walworth ,2,3,1
+London,Hackney,1,2,1
+Hackney,Woodberry Down ,2,3,1
+London,Camden,1,2,1
+Camden,Brunswick ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,South bank ,2,3,1
+London,City of London,1,2,1
+City of London,Barbican Estate ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,Balfron Tower ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,South Bank ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,Royal London Hospital ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,Whitechapel ,2,3,1
+London,Redbridge,1,2,1
+Redbridge,East London ,2,3,1
+London,Newham,1,2,1
+Newham,Queen Elizabeth Olympic Park ,2,3,1
+London,Bexley,1,2,1
+Bexley,Thamesmead ,2,3,1
+London,Islington,1,2,1
+Islington,Clerkenwell ,2,3,1
+London,Islington,1,2,1
+Islington,Clerkenwell ,2,3,1
+London,Tower Hamlets,1,2,1
+Tower Hamlets,Whitechapel ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,Becket House ,2,3,1
+London,Hackney,1,2,1
+Hackney,Hackney ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross ,2,3,1
+London,City of London,1,2,1
+City of London,Aldgate ,2,3,1
+City of London,Bishopsgate ,2,3,1
+City of London,Moorgate ,2,3,1
+City of London,Cripplegate,2,3,1
+City of London,Aldersgate,2,3,1
+City of London,Newgate,2,3,1
+City of London,Ludgate,2,3,1
+City of London,Temple Bar,2,3,1
+London,Barnet,1,2,1
+Barnet,Camden PassivHaus ,2,3,1
+London,Westminster,1,2,1
+Westminster,Victoria Business Improvement District ,2,3,1
+London,Hackney,1,2,1
+Hackney,Shoreditch ,2,3,1
+London,Westminster,1,2,1
+Westminster,Victoria Business Improvement District ,2,3,1
+London,Camden,1,2,1
+Camden,"London Weather Centre , Heathrow  and Gatwick ",2,3,1
+London,Islington,1,2,1
+Islington, Islington ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,South Bank ,2,3,1
+London,Westminster,1,2,1
+Westminster,45 Park Lane ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,Lambeth ,2,3,1
+London,Barking and Dagenham,1,2,1
+Barking and Dagenham,Barking Reach ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,Park Plaza Westminster Bridge Hotel ,2,3,1
+London,Westminster,1,2,1
+Westminster,Oxford Street ,2,3,1
+London,Newham,1,2,1
+Newham,Battersea Power Station ,2,3,1
+Newham,,2,3,1
+Newham,Silvertown Quays ,2,3,1
+London,Wandsworth,1,2,1
+Wandsworth,Battersea Power Station ,2,3,1
+Wandsworth,,2,3,1
+Wandsworth,Silvertown Quays ,2,3,1
+London,Southwark,1,2,1
+Southwark,Printworks ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross ,2,3,1
+London,Camden,1,2,1
+Camden,Camden ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,Iklectik ,2,3,1
+London,Camden,1,2,1
+Camden,Camden School for Girls ,2,3,1
+London,Camden,1,2,1
+Camden,Camden School for Girls ,2,3,1
+London,Camden,1,2,1
+Camden,Camden ,2,3,1
+London,Camden,1,2,1
+Camden,Camden School for Girls ,2,3,1
+London,City of London,1,2,1
+City of London,Barbican Centre ,2,3,1
+London,Lambeth,1,2,1
+Lambeth,Museum of Garden History ,2,3,1
+London,City of London,1,2,1
+City of London,Barbican Centre ,2,3,1
+London,City of London,1,2,1
+City of London,DreamSpace Gallery ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross ,2,3,1
+London,Camden,1,2,1
+Camden,Camden ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross ,2,3,1
+London,Camden,1,2,1
+Camden,King's Cross ,2,3,1
+London,City of London,1,2,1
+City of London,Drapers' Company ,2,3,1
+London,Westminster,1,2,1
+Westminster,Marylebone ,2,3,1
+London,Westminster,1,2,1
+Westminster,Marylebone ,2,3,1

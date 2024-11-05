@@ -1,0 +1,61 @@
+Source,Target,Step from,Step to,Count
+London,Lambeth,1,2,18
+Lambeth,Specific Location,2,3,25
+London,City of London,1,2,21
+City of London,Specific Location,2,3,28
+London,Southwark,1,2,15
+Southwark,Specific Location,2,3,22
+London,Greenwich,1,2,7
+Greenwich,Specific Location,2,3,14
+London,Westminster,1,2,26
+Westminster,Specific Location,2,3,33
+London,Tower Hamlets,1,2,22
+Tower Hamlets,Specific Location,2,3,22
+London,Croydon,1,2,7
+Croydon,Specific Location,2,3,8
+London,Kingston upon Thames,1,2,5
+Kingston upon Thames,Specific Location,2,3,6
+London,Hillingdon,1,2,4
+Hillingdon,Specific Location,2,3,4
+London,Hackney,1,2,25
+Hackney,Specific Location,2,3,26
+London,Camden,1,2,44
+Camden,Specific Location,2,3,44
+London,Newham,1,2,26
+Newham,Specific Location,2,3,30
+London,Wandsworth,1,2,6
+Wandsworth,Specific Location,2,3,6
+London,Brent,1,2,4
+Brent,Specific Location,2,3,5
+London,Merton,1,2,1
+Merton,Specific Location,2,3,2
+London,Barnet,1,2,9
+Barnet,Specific Location,2,3,9
+London,Kensington and Chelsea,1,2,7
+Kensington and Chelsea,Specific Location,2,3,9
+London,Hammersmith and Fulham,1,2,3
+Hammersmith and Fulham,Specific Location,2,3,8
+London,Islington,1,2,11
+Islington,Specific Location,2,3,11
+London,Ealing,1,2,4
+Ealing,Specific Location,2,3,8
+London,Barking and Dagenham,1,2,6
+Barking and Dagenham,Specific Location,2,3,11
+London,Bromley,1,2,1
+Bromley,Specific Location,2,3,2
+London,Haringey,1,2,4
+Haringey,Specific Location,2,3,8
+London,Waltham Forest,1,2,1
+Waltham Forest,Specific Location,2,3,5
+London,Harrow,1,2,2
+Harrow,Specific Location,2,3,3
+London,Redbridge,1,2,2
+Redbridge,Specific Location,2,3,2
+London,Lewisham,1,2,3
+Lewisham,Specific Location,2,3,3
+London,Richmond upon Thames,1,2,2
+Richmond upon Thames,Specific Location,2,3,2
+London,Enfield,1,2,1
+Enfield,Specific Location,2,3,1
+London,Bexley,1,2,1
+Bexley,Specific Location,2,3,1
